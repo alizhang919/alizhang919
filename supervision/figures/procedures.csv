@@ -1,0 +1,9 @@
+specification,procedure,p
+"H1b perpetual/AT1, full horizon (G = 25)",Sign-flip,0.0117
+"H1b perpetual/AT1, full horizon (G = 25)",One-sample t,0.0152
+"H1b perpetual/AT1, full horizon (G = 25)",Wilcoxon,0.0160
+"H1b perpetual/AT1, full horizon (G = 25)",Sign test,0.0433
+"H2 labelled, pre-specified window (G = 25)",Sign-flip,0.0169
+"H2 labelled, pre-specified window (G = 25)",One-sample t,0.0204
+"H2 labelled, pre-specified window (G = 25)",Wilcoxon,0.0851
+"H2 labelled, pre-specified window (G = 25)",Sign test,0.6900

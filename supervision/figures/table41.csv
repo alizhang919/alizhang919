@@ -1,0 +1,10 @@
+class,reading,G,mean,ci_lo,ci_hi,p_signflip
+Callable (H1a),Final: full horizon to Aug 2026,17,39.28,-12.9,103.3,0.2446
+Callable (H1a),Window: Jan 2020-Jun 2025,15,51.73,-9.6,124.8,0.2416
+Callable (H1a),Benchmark: original pairs on window,13,8.55,-20.9,56.4,0.9666
+Perpetual/AT1 (H1b),Final: full horizon to Aug 2026,25,103.84,30.4,183.0,0.0117
+Perpetual/AT1 (H1b),Window: Jan 2020-Jun 2025,21,109.77,25.7,200.7,0.0215
+Perpetual/AT1 (H1b),Benchmark: original pairs on window,14,26.21,-53.3,106.5,0.5341
+Labelled (H2),Final: full horizon to Aug 2026,30,18.48,-12.6,57.0,0.3433
+Labelled (H2),Window: Jan 2020-Jun 2025,25,-16.44,-29.8,-4.6,0.0169
+Labelled (H2),Benchmark: original pairs on window,16,-4.45,-14.8,4.4,0.4225
